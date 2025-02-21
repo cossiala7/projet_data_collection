@@ -1,6 +1,10 @@
 numpy
-bs4
-streamlit.components.v1
+Beautifulsoup
 requests
+scipy
+matplotlib
 pandas
 streamlit
+seaborn
+pybase64
+streamlit.components.v1
