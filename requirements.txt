@@ -1,0 +1,6 @@
+numpy
+bs4
+streamlit.components.v1
+requests
+pandas
+streamlit
