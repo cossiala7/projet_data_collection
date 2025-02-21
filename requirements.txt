@@ -1,10 +1,5 @@
 numpy
-Beautifulsoup
-requests
-scipy
-matplotlib
-pandas
+beautifulsoup4
 streamlit
-seaborn
-pybase64
-streamlit.components.v1
+pandas  
+requests  
